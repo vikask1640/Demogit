@@ -1,0 +1,21 @@
+from numpy import *
+import numpy as np
+arr=linspace(0,15,10)
+print(arr)
+print()
+print()
+x=logspace(1,10,3)
+print(x)
+print()
+print()
+y=arange(4,10,3)
+print(y)
+print()
+print()
+z=zeros(1)
+print(z)
+print()
+print()
+l=ones(5,float)
+print(l)
+

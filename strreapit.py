@@ -1,0 +1,2 @@
+strName="akash"
+print(strName)

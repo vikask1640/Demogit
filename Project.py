@@ -1,0 +1,3 @@
+#............................PROJECT..............................
+nameMarks={"sachin":240,"vikas":350,"rakesh":200,"ashok":320,"avanish":410}
+print(nameMarks)    
